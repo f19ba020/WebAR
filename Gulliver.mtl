@@ -1,0 +1,54 @@
+newmtl Gulliver:GulliverSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd mBody_Alb.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Gulliver:GulliverSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd mEye_Alb_00.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Gulliver:GulliverSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd mCloth_Alb.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Gulliver:GulliverSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd mCap_Alb.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Gulliver:GulliverSG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd mCap_Alb.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Gulliver:GulliverSG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd mBeak_Alb.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
